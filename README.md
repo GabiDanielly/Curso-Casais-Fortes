@@ -3,6 +3,8 @@
 Uma plataforma Web para o Ministério Famílias Vitoriosas da ADVEC São Paulo.
 O site apresenta o curso e permite que casais e noivos se inscrevam online, com os dados salvos automaticamente em uma planilha.
 
+🔗 **[Acessar plataforma](https://curso-casais-fortes.vercel.app/)**
+
 ## Sobre o Projeto
 A igreja realiza o curso Casais Fortes em três turmas semanais, além de uma turma específica para noivos. As inscrições precisavam de um canal simples, acessível pelo celular e fácil de organizar para quem coordena.
 
