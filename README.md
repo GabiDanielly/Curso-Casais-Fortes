@@ -11,7 +11,7 @@ A igreja realiza o curso Casais Fortes em três turmas semanais, além de uma tu
 O projeto resolve isso com uma página leve, pensada primeiro para o celular, que apresenta o curso, tira as dúvidas principais e leva o casal direto para a inscrição. Cada formulário enviado vira uma linha na planilha da equipe, sem sistema complicado e sem custo de servidor.
 
 
-![Tela inicial do Casais Fortes](docs/home.png) 
+<img src="docs/home.png" width="300">
 
 ## Funcionalidades
 - **Mobile-first:** layout pensado primeiro para o celular.
