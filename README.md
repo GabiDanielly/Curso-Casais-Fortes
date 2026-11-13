@@ -69,5 +69,5 @@ https://curso-casais-fortes.vercel.app/
 
 
 ## Autor 
-### Gabriela Danielly 
-### Linkedin: https://www.linkedin.com/in/gabrieladanielly/ 
+#### Gabriela Danielly 
+#### Linkedin: https://www.linkedin.com/in/gabrieladanielly/ 
