@@ -55,7 +55,7 @@ O projeto resolve isso com uma página leve, pensada primeiro para o celular, qu
 1. Clone este repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/GabiDanielly/Curso-Casais-Fortes.git
    ```
 
 2. Abra a pasta do projeto no VS Code.
@@ -70,3 +70,4 @@ https://curso-casais-fortes.vercel.app/
 
 ## Autor 
 ### Gabriela Danielly 
+### Linkedin: https://www.linkedin.com/in/gabrieladanielly/ 
